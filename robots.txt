@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arbertwi.github.io/sitemap.html.gz
+Sitemap: https://arbertwi.github.io/app/sitemap.html.gz
+Sitemap: https://arbertwi.github.io/assets/sitemap.html.gz
+Sitemap: https://arbertwi.github.io/css/sitemap.html.gz
+Sitemap: https://arbertwi.github.io/includes/sitemap.html.gz
+Sitemap: https://arbertwi.github.io/item/sitemap.html.gz
+Sitemap: https://arbertwi.github.io/src/sitemap.html.gz
